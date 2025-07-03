@@ -29,5 +29,5 @@ My proficiency extends to Java, and I also possess some hands-on experience with
 ### 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=PiotrZawiej&show_icons=true&theme=gruvbox)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PiotrZawiej)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiotrZawiej&size_weight=0.5&count_weight=0.5)
 
