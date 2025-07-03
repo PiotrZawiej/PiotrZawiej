@@ -8,6 +8,10 @@ My proficiency extends to Java, and I also possess some hands-on experience with
 
 ---
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PiotrZawiej" alt="PiotrZawiej" /></a> </p>
+
+#
+
 ### 🧑‍💻 languages and tools 
 
 <img align="left" alt="Python" width="60px" style="padding-right:10px; padding-bottom: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
@@ -29,5 +33,4 @@ My proficiency extends to Java, and I also possess some hands-on experience with
 ### 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=PiotrZawiej&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiotrZawiej&layout=compact)
 
