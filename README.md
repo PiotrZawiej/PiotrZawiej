@@ -8,7 +8,7 @@ My proficiency extends to Java, and I also possess some hands-on experience with
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PiotrZawiej&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=PiotrZawiej)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br />
 
