@@ -2,9 +2,9 @@
 
 **Software developer**
 
-👋 Hello there! I’m Piotr Zawieja, a first-year Master’s student in Computer Science at the University of Economics in Katowice.
-Currently, I’m deeply immersed in various Python and JavaScript projects, exploring the vast world of software development.
-My proficiency extends to Java, and I also possess some hands-on experience with C++. Let’s connect and collaborate on exciting projects! 🚀
+👋 Hello! I’m Piotr Zawieja, a Computer Science Master’s student at the University of Economics in Katowice, currently specializing in the Dynamics 365 and Power Platform ecosystem.
+
+My focus is on delivering high-impact business solutions by bridging the gap between standard functionality and custom-coded extensions. I utilize my proficiency in C#, TypeScript, and Python (FastAPI) to build robust integrations and enhance system capabilities.
 
 ---
 
